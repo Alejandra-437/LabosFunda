@@ -10,6 +10,7 @@ int main(){
    cout<<"ingrese el radio de un circulo: ";
    cin>>radio;
    
+   
    area = pi*(pow(radio, 2));
    cout<<"El area calculada es: ";
    cout<<area;

@@ -6,6 +6,7 @@ int main(){
    int contador=0;
    int total=0;
    cout<<"PROGRAMA PARA CALCULAR PROMEDIO DE NUMEROS\n";
+   
    cout<<"ingrese num1: ";
    cin>>num1;
    contador = contador +1;

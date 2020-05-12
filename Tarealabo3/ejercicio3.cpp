@@ -5,7 +5,7 @@ int main(){
     int a, b, c;
     float x = 0;
     cout<<"PROGRAMA PARA RESOLVER ECUACIONES CUADRATICAS\n";
-    
+
     cout<< "ingrese a: ";
     cin>>a;
     cout<< "ingrese b: ";
@@ -22,6 +22,7 @@ int main(){
     cout<<"El valor de x2 es de: ";
     cout<<x;
 
+   
     return 0;
 
 }
