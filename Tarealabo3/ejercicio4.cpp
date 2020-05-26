@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <string.h>
 #include <math.h>
 using namespace std;
 int main(){ 
@@ -21,7 +21,9 @@ int main(){
     cout<<"ingrese precio del producto: ";
     cin>>precio;
     cout<<"\n";
-    
+    cout<<"producto: ";
+    cout<<producto;
+    cout<<"\n";
     subtotal = precio*cantidad;
     cout<<"subtotal:$ ";
     cout<<subtotal;
