@@ -18,6 +18,7 @@ int main(){
     cin>>x;
 
 
+
     cout<<"El numero de repeticiones del numero "<<x<<" en el arreglo es "<<arreglo(arr,15,x)<<endl;
     return 0;
 }
